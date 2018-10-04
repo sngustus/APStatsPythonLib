@@ -1,5 +1,5 @@
 """""""""""""""""""""""""""
-PyStats python library
+APStats python library
 written by Steve Gustus
 
 """""""""""""""""""""""""""
@@ -8,7 +8,8 @@ NAME
 	PyStats - Basic calculator functions useful for statistics
 
 DESCRIPTION
-	This module expands on the built-in "statistics" module.
+	This module expands on the built-in "statistics" module, including basic functions one
+	would need if taking AP Statistics.
 
 CLASSES
 	None
